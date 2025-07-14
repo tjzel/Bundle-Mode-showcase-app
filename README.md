@@ -1,4 +1,4 @@
-This is an app that showcases the use of `react-native-worklets` Bundle Mode feature. To read more about this feature, [check the documentation](docs.swmansion.com/react-native-worklets/experimental/bundleMode). It uses `react-native-wgpu` as an example library that can be run on the Worklet Runtime in a plug-and-play fashion.
+This is an app that showcases the use of `react-native-worklets` Bundle Mode feature. To read more about this feature, [check the documentation](https://docs.swmansion.com/react-native-worklets/experimental/bundleMode). It uses `react-native-wgpu` as an example library that can be run on the Worklet Runtime in a plug-and-play fashion.
 
 # Getting Started
 
